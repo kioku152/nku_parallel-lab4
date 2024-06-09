@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1717868173 source:e:\codeblocks_project\mpi_fzs_avx_omp\main.cpp
+	<iostream>
+	<pthread.h>
+	<windows.h>
+	"mpi.h"
+	<immintrin.h>
+	<omp.h>
+

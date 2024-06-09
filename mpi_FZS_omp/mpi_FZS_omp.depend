@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1717867252 source:e:\codeblocks_project\mpi_fzs_omp\main.cpp
+	<iostream>
+	<pthread.h>
+	<windows.h>
+	"mpi.h"
+
