@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1717850073 source:e:\codeblocks_project\mpi_block\main.cpp
+	<iostream>
+	<pthread.h>
+	<windows.h>
+	"mpi.h"
+
